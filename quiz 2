@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+> x <- c (1, 1, 2, 3, 3, 4, 5, 5, 6, 7, 8, 8, 9, 10, 10, 11, 12, 13, 13, 14)
+# created a vector 
+# converted numeric vector into character vector
+# converted numeric vector into factors with number of levels answering question 3 nd 4
+ # creating a list below
